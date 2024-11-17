@@ -1,5 +1,1 @@
 # ChatFlow
-
-## Introduction
-
-## ScreenShots
